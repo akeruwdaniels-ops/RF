@@ -1,1 +1,1 @@
-web: python deriv_rb_bot_mc.py
+web: python deriv_rise_fall_mc.py
